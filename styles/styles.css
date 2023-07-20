@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lato' , sans-serif;
+    font-family: 'open Sans' , sans-serif;
+
+}
+.text-primary{
+    color: #FF42A5;
+}
+
+.btn-primary {
+    border-radius: 5px;
+}
+nav{
+    display: flex;
+    justify-content: space-betweens;
+}
+.nav-title{
+font-family: Work Sans;
+font-size: 45px;
+font-weight: 700;
+margin: 38px 34px ;
+}
+.img-people{
+    margin: 150px 97p;
+    padding: 30px 30px 30px 150px;
+}
+
+nav > ul{
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 55px;
+}
+nav a{
+    text-decoration: none;
+}
