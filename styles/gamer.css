@@ -1,0 +1,36 @@
+/* body style */
+body{
+    font-family:'lato',sans-serif;
+    font-family: 'open sans',sans-serif;
+}
+/* nav style */
+nav{
+   display: flex;
+   justify-content: space-around;
+}
+
+.nav-style{
+    color: black;
+font-size: 45px;
+    font-weight: 700;}
+
+/* gamer color */
+.g-color{
+    color:plum;
+}    
+
+nav > ul{
+    display: flex;
+    /* align-items: center; */
+
+}
+
+nav li{
+    list-style: none;
+    margin-right: 56px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #3C354F;
+}
